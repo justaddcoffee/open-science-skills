@@ -1,6 +1,6 @@
 # open-science-skills
 
-Community-contributed domain skills for scientific discovery with [SHANDY](https://github.com/justaddcoffee/shandy) and Claude Code.
+Community-contributed domain skills for scientific discovery with Claude Code and other AI agents.
 
 **Our goal:** Build a shared repository of scientific domain expertise that helps AI agents reason more effectively about specialized research domains. By capturing best practices, analysis strategies, and common pitfalls for each scientific domain, we enable AI-assisted discovery to benefit from community knowledge rather than starting from scratch every time.
 
@@ -19,12 +19,6 @@ Skills are modular capabilities that extend Claude's functionality with domain-s
 | [data-science](data-science/) | General statistical analysis and data exploration |
 
 ## Installation
-
-### For SHANDY
-
-Skills are automatically installed when you set up SHANDY. See the [SHANDY documentation](https://github.com/justaddcoffee/shandy).
-
-### For Claude Code
 
 Clone this repository into your Claude Code skills directory:
 
