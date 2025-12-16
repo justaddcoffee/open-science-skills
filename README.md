@@ -1,4 +1,4 @@
-# shandy-openskills
+# open-science-skills
 
 Community-contributed domain skills for scientific discovery with [SHANDY](https://github.com/justaddcoffee/shandy) and Claude Code.
 
@@ -30,10 +30,10 @@ Clone this repository into your Claude Code skills directory:
 
 ```bash
 # Clone into project-level skills (recommended)
-git clone https://github.com/justaddcoffee/shandy-openskills.git .claude/skills/domains
+git clone https://github.com/justaddcoffee/open-science-skills.git .claude/skills/domains
 
 # Or clone into personal skills
-git clone https://github.com/justaddcoffee/shandy-openskills.git ~/.claude/skills/domains
+git clone https://github.com/justaddcoffee/open-science-skills.git ~/.claude/skills/domains
 ```
 
 Then copy the domain folders you want to use:
