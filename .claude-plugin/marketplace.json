@@ -1,0 +1,45 @@
+{
+  "name": "open-science-skills",
+  "metadata": {
+    "description": "Community-contributed domain skills for scientific discovery with Claude Code and other AI agents",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "data-science",
+      "description": "Statistical analysis strategies and data exploration techniques",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./data-science"
+      ]
+    },
+    {
+      "name": "genomics",
+      "description": "Genomics and transcriptomics analysis strategies",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./genomics"
+      ]
+    },
+    {
+      "name": "metabolomics",
+      "description": "Metabolomics-specific analysis strategies and domain knowledge",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./metabolomics"
+      ]
+    },
+    {
+      "name": "structural-biology",
+      "description": "Structural biology analysis including protein structure validation, AlphaFold interpretation, and structural comparisons",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./structural-biology"
+      ]
+    }
+  ]
+}

@@ -20,6 +20,26 @@ Skills are modular capabilities that extend Claude's functionality with domain-s
 
 ## Installation
 
+### Option 1: Marketplace (Recommended)
+
+Register this repository as a Claude Code plugin marketplace, then browse and install skills:
+
+```bash
+# Add the marketplace
+/plugin marketplace add justaddcoffee/open-science-skills
+
+# Browse available skills
+/plugin marketplace browse open-science-skills
+
+# Install individual skills
+/plugin install open-science-skills:data-science
+/plugin install open-science-skills:genomics
+/plugin install open-science-skills:metabolomics
+/plugin install open-science-skills:structural-biology
+```
+
+### Option 2: Manual Installation
+
 Clone this repository into your Claude Code skills directory:
 
 ```bash
